@@ -16,7 +16,7 @@ Before we start, we need to look at the original City School District summary al
 ![Original Data](https://github.com/StickySitch/School_District_Analysis/blob/main/Images/districtbefore.png)
 
 #### New District Summary:
-![New Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/districtafter.png)
+![New Data](https://github.com/StickySitch/School_District_Analysis/blob/main/Images/districtafter.png)
 
 Now let's take a look at how removing the 9th graders grades effected the City School District Summary. Not everything
 has been effected, so I've listed and discussed the column values that have changed below.
@@ -48,9 +48,9 @@ By looking at the new figures, we can see a decrease in almost every grade relat
 Next lets take a look at how our school summary dataframe was affected. Just like earlier, I'm going to display both the
 original and new dataframes:
 #### Original School Summary:
-![Original Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/districtbefore.png)
+![Original Data](https://github.com/StickySitch/School_District_Analysis/blob/main/Images/districtbefore.png)
 #### New School Summary:
-![New Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/districtafter.png)
+![New Data](https://github.com/StickySitch/School_District_Analysis/blob/main/Images/districtafter.png)
 
 As I'm sure you suspected the results you see above. You can see that Thomas High Schools values have decreased due to
 the new analysis with the missing grades. Lets dive a little deeper!
@@ -58,9 +58,9 @@ the new analysis with the missing grades. Lets dive a little deeper!
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Before we dive in, lets take a look at the before and after values just like earlier:
 #### Original THS Summary:
-![Original Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/BeforeChangedGrades.png)
+![Original Data](https://github.com/StickySitch/School_District_Analysis/blob/main/Images/BeforeChangedGrades.png)
 #### New THS Summary:
-![New Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/AfterChangedGrades.png)
+![New Data](https://github.com/StickySitch/School_District_Analysis/blob/main/Images/AfterChangedGrades.png)
 
 Here is a break down of the changes:
 
@@ -99,15 +99,15 @@ the other schools. As you can see, most values decreased, except for one:``Avera
 
 ##### Original Math Scores By Grade:
 
-![Original Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/thsMathBefore.png)
+![Original Data](https://github.com/StickySitch/School_District_Analysis/blob/main/Images/thsMathBefore.png)
 
 ##### New Math Scores By Grade:
 
-![New Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/thsMathAfter.png)
+![New Data](https://github.com/StickySitch/School_District_Analysis/blob/main/Images/thsMathAfter.png)
 
 
 ##### Original Reading Scores By Grade:
-![Original Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/thsReadingBefore.png)
+![Original Data](https://github.com/StickySitch/School_District_Analysis/blob/main/Images/thsReadingBefore.png)
 
 ##### New Reading Scores By Grade:
 ![New Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/thsReadingAfter.png)
