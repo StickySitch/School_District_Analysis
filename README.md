@@ -10,10 +10,10 @@ were altered. Due to the dishonest reading and math scores, all of the grades of
 have been nullified by changing them to ```NaN```. The analysis was redone inorder to account for the new data set.
 
 ## Results
-###How was the district summary affected?
+### How was the district summary affected?
 Before we start, we need to look at the original City School District summary alongside the new summary.
 #### Original District Summary:
-![Original Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/districtbefore.png)
+![Original Data](https://github.com/StickySitch/School_District_Analysis/blob/main/Images/districtbefore.png)
 
 #### New District Summary:
 ![New Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/districtafter.png)
