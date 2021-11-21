@@ -98,9 +98,11 @@ the other schools. As you can see, most values decreased, except for one:``Avera
 ####Math and reading scores by grade
 
 #####Original Math Scores By Grade:
+
 ![Original Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/thsMathBefore.png)
 
 #####New Math Scores By Grade:
+
 ![New Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/thsMathAfter.png)
 
 
