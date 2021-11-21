@@ -110,7 +110,7 @@ the other schools. As you can see, most values decreased, except for one:``Avera
 ![Original Data](https://github.com/StickySitch/School_District_Analysis/blob/main/Images/thsReadingBefore.png)
 
 ##### New Reading Scores By Grade:
-![New Data](https://github.com/StickySitch/School_District_Analysis/tree/main/Images/thsReadingAfter.png)
+![New Data](https://github.com/StickySitch/School_District_Analysis/blob/main/Images/thsReadingAfter.png)
 
 Now when looking at this data, it's important to note the ```nan``` value in the new data sets. Since we removed the 9th
 graders scores, ```nan``` will take its place essentially meaning skip this score and continue calculations. None of the
